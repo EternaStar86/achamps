@@ -1,2 +1,2 @@
 #aCHAMPS
-This is a sport apps
+This is an international sports and esport app.
